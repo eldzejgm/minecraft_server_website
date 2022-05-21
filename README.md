@@ -11,3 +11,5 @@
   
  - Help with editing if needed on Discord: EldzejGM#2428
 </h3>
+
+<img src="https://cdn.eldzejgm.ml/sc/msw.PNG">
